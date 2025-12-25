@@ -1,5 +1,3 @@
-Example_Input_Data/Example_bim_file
-
 1       1:10177 0 10177 C A
 1       1:10285 0 10285 C T
 1       1:10336 0 10336 C A
