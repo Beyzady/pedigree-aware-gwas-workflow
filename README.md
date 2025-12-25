@@ -9,7 +9,7 @@ This repository demonstrates a pedigree-aware GWAS preprocessing and analysis wo
 ## Key Features
 - Pedigree-aware association testing using ClassicMendel
 - Variant-level QC and filtering with PLINK
-- Support for family-based and trio datasets
+- Support for family-based datasets
 - Modular and reproducible workflow design
 
 ## Scientific Context
